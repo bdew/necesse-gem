@@ -1,0 +1,17 @@
+[object]
+diamondore=Diamond Ore
+sapphireore=Sapphire Ore
+rubyore=Ruby Ore
+emeraldore=Emerald Ore
+tinore=Tin Ore
+
+[item]
+diamondgem=Raw Diamond
+sapphiregem=Raw Sapphire
+rubygem=Raw Ruby
+emeraldgem=Raw Emerald
+tinore=Tin Ore
+bronzebar=Bronze Bar
+
+[misc]
+oredistribution_header=Ore Distribution for <level> (<width>x<height>)
